@@ -23,7 +23,7 @@ I am an experienced software engineer proficient in systems analysis, design, de
                     <tbody>
                         <tr>
                             <td>🖥 Backend</td>
-                            <td>PHP (Laravel), JAVA (SpringBoot), REST API Development</td>
+                            <td>Laravel (PHP), SpringBoot (JAVA), REST API Development</td>
                         </tr>
                         <tr>
                             <td>🎨 Frontend</td>
