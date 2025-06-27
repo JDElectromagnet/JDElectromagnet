@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Juned Ahmed Chowdhury (GitHub: JDElectromagnet)</h1>
 <p align="center">
-  💻 Software Engineer | ⚙️ Backend Specialist | 🚀 DevOps Enthusiast  
+  💻 Full Stack Software Engineer | ⚙️ Backend Specialist | 🚀 DevOps Enthusiast  
 </p>
 <p align="center">
   <a href="mailto:junedahmed848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
